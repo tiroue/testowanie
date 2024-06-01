@@ -1,3 +1,4 @@
+najnowszy-komentarz2
 tescik1
 tescik2 - drugi commit bez pisha narazie
 
