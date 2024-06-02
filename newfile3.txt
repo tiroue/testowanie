@@ -1,2 +1,0 @@
-to jest nowy plik 3
-branch - testowanie-clone
