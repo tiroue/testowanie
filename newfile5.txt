@@ -1,1 +1,3 @@
 nowyplik5 z feature_branch
+commit w pliku newfile5 z maina - sprawdzamy konflikty
+na branchu feature-branch spróbujemy dopisac cos do pliku a potem zrobic rebase
