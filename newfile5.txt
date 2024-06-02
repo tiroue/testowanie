@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-nowyplik5 z feature_branch
-commit w pliku newfile5 z maina - sprawdzamy konflikty
-na branchu feature-branch spróbujemy dopisac cos do pliku a potem zrobic rebase
-=======
-nic
->>>>>>> ca4a4a9 (wpisanie nic)
+wyczyszczony plik
