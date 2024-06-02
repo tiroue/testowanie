@@ -1,3 +1,3 @@
 new feature in feature_branch
-new feature 2 - commit
+new feature 2 - nowa zmiana
 ficzer3 - commit
